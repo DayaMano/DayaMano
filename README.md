@@ -23,3 +23,10 @@ I'm software developer currently working in **_Reliance JIO_**. I'm a passionate
 * Bootstarp
 * TailwindCSS
 * React (beginner)
+
+### Tools
+* Brave / Chrome
+* VScode
+* Git 
+* Window 10/11 
+* Ubuntu
