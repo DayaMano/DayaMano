@@ -11,8 +11,6 @@ I'm software developer currently working in **_Reliance JIO_**. I'm a passionate
 * Typescript
 * Dart
 * Python
-* Java
-* C++
 * SQL
 * HTML/CSS
 
