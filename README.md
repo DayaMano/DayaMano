@@ -19,8 +19,6 @@ I enjoy working in **agile teams**, collaborating closely with product and busin
 
 💡 **Current interests:** Backend development · Microservices · System optimization · Scalable architectures
 
-<img src="./coding.gif" alt="coding" align="right" width="300"/>
-
 ---
 
 ## 🧠 Tech Stack
